@@ -72,8 +72,20 @@ body {
     align-items: center;
     text-align: center;
     margin-left: 120px;
-    margin-top: 0px;
-   
-    
+    margin-top: 0px;    
 
 }
+
+
+/* INICIO - Daqui para baixo - SOBRE NÓS*/
+.TituloSobre{
+    align-items: center;
+    text-align: center;
+    color: blue;
+}
+
+.header1 {
+    background-color: gray;
+    min-height: 150px;
+}
+/* FIM - Daqui para baixo - SOBRE NÓS*/
